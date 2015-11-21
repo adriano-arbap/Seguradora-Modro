@@ -1,2 +1,3 @@
 # Seguradora-Modro
-123
+#/docs -- Documetação do projeto
+#/seguradora -- Fontes e Scripts do projeto
